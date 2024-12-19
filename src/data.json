@@ -1,0 +1,52 @@
+{
+  "lang": "ES",
+  "loading": "Cargando...",
+  "home": {
+    "test": {
+      "algo": "algo"
+    },
+    "title": "Mi página de inicio",
+    "description": "La descripción de mi index",
+    "breadcrumbs": "<span><a href=\"/\">Home</a></span><span><a href=\"/\">Home</a></span>"
+  },
+  "cart": {
+    "title": "Carrito de la compra",
+    "description": "La descripción de mi carrito de la compra",
+    "breadcrumbs": "<span><a href=\"/\">Home</a></span><span><a href=\"/\">Home</a></span>"
+  },
+  "form": {
+    "title": "Formulario de registro",
+    "description": "La descripción de mi index",
+    "breadcrumbs": "<span><a href=\"/\">Home</a></span>"
+  },
+  "title": "Tienda de Electrónica",
+  "categories": [{
+      "name": "Smartphones",
+      "products": [{
+          "name": "Teléfono A",
+          "price": "299"
+        },
+        {
+          "name": "Teléfono B",
+          "price": "399"
+        },
+        {
+          "name": "Teléfono B",
+          "price": "999"
+        }
+      ]
+    },
+    {
+      "name": "Laptops",
+      "products": [{
+          "name": "Laptop X",
+          "price": "799"
+        },
+        {
+          "name": "Laptop Y",
+          "price": "999"
+        }
+      ]
+    }
+  ]
+}
